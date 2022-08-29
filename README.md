@@ -24,3 +24,13 @@ Where Direction and Vertex are defined like this:
     typedef struct {
         int x, y; 
     }Vertex;
+
+
+# I have implemented...
+make	: makefile with different commands to run<br>
+header	: header file to assist with cleanliness<br>
+add 	: add polygon with list of vertices<br>
+summary : returns the number of vertices and centroid for each polygon<br>
+shift	: shifts the polygons location<br>
+turn 	: sets the direction of the polygon<br>
+quit 	: terminates the program<br>
